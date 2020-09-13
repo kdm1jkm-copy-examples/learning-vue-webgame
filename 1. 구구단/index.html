@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>구구단</title>
+    <meta
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+      name="viewport"
+    />
+    <meta content="ie=edge" http-equiv="X-UA-Compatible" />
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  </head>
+  <body>
+    <div id="root">
+      <div>{{firstNum}}*{{secondNum}}=?</div>
+      <form v-on:submit="onSubmitForm">
+        <input type="number" ref="answer" v-model="value" />
+        <button type="submit">입력</button>
+      </form>
+      <div v-if="showResult">
+        <div v-if="result">정답</div>
+        <div v-else>오답</div>
+      </div>
+    </div>
+  </body>
+  <script>
+    const app = new Vue({
+      el: "#root",
+      data: {
+        firstNum: Math.ceil(Math.random() * 9),
+        secondNum: Math.ceil(Math.random() * 9),
+        value: "",
+        result: null,
+        showResult: false,
+      },
+      methods: {
+        onSubmitForm(e) {
+          e.preventDefault();
+          this.showResult = true;
+          this.result = this.firstNum * this.secondNum === parseInt(this.value);
+          if (this.result) {
+            this.firstNum = Math.ceil(Math.random() * 9);
+            this.secondNum = Math.ceil(Math.random() * 9);
+          }
+          this.value = "";
+          this.$refs.answer.focus();
+        },
+      },
+    });
+  </script>
+</html>
