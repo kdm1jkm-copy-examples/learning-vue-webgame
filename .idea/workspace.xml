@@ -3,8 +3,19 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf285681-84b0-4d0d-ae95-b45ae528c91d" name="Default Changelist" comment="" />
+    <list default="true" id="bf285681-84b0-4d0d-ae95-b45ae528c91d" name="Default Changelist" comment="3. 숫자야구 - init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +29,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hPYsV1Ln7fVO2v3dcHqFGLEWmM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.58" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,21 +74,73 @@
       <workItem from="1599915277196" duration="29000" />
       <workItem from="1599951991106" duration="10353000" />
       <workItem from="1599975016278" duration="2691000" />
+      <workItem from="1599978203774" duration="621000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1599978328585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599978328585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1. 구구단">
+      <created>1599978390580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599978390580</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2. 끝말잇기">
+      <created>1599978416842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599978416842</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3. 숫자야구 - init">
+      <created>1599978496433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599978496433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="1. 구구단" />
+    <MESSAGE value="2. 끝말잇기" />
+    <MESSAGE value="3. 숫자야구 - init" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. 숫자야구 - init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="755" y="58" width="1165" height="549" key="#HTML" timestamp="1599954431290">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="755" y="58" width="1165" height="549" key="#HTML/0.30.1920.1050@0.30.1920.1050" timestamp="1599954431290" />
-    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1599953909730">
+    <state x="577" y="122" key="CommitChangelistDialog2" timestamp="1599978301683">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1599953909730" />
+    <state x="577" y="122" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1599978301683" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1599978255693">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1599978255693" />
     <state x="461" y="199" key="SettingsEditor" timestamp="1599954209729">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -79,9 +149,9 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.30.1920.1050@0.30.1920.1050" timestamp="1599977974673" />
-    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1599975566981">
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1599978269521">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1599975566981" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1599978269521" />
   </component>
 </project>
