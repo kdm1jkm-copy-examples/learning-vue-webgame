@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf285681-84b0-4d0d-ae95-b45ae528c91d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hPYsV1Ln7fVO2v3dcHqFGLEWmM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.58" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Dropbox\repos\vue\learn\learning_webgame\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf285681-84b0-4d0d-ae95-b45ae528c91d" name="Default Changelist" comment="" />
+      <created>1599914402251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599914402251</updated>
+      <workItem from="1599914404256" duration="620000" />
+      <workItem from="1599915277196" duration="29000" />
+      <workItem from="1599951991106" duration="10353000" />
+      <workItem from="1599975016278" duration="2691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="58" width="1165" height="549" key="#HTML" timestamp="1599954431290">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="755" y="58" width="1165" height="549" key="#HTML/0.30.1920.1050@0.30.1920.1050" timestamp="1599954431290" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1599953909730">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1599953909730" />
+    <state x="461" y="199" key="SettingsEditor" timestamp="1599954209729">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="461" y="199" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1599954209729" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599977974673">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.30.1920.1050@0.30.1920.1050" timestamp="1599977974673" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1599975566981">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1599975566981" />
+  </component>
+</project>
